@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Car Class Example"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f712b5833891cf44cf8f12dfe4ff2ee57d698c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Car Class Example"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Car Class Example"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

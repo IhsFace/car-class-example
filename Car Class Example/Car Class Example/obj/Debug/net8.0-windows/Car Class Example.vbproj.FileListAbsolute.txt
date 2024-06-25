@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\ob
 C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.pdb
 C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\ref\Car Class Example.dll
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.sourcelink.json
