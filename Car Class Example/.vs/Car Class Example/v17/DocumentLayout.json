@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\car-class-example\\Car Class Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB657E-86D2-4590-A604-B46F98D672E0}|Car Class Example\\Car Class Example.vbproj|c:\\users\\ihsaa\\projects\\car-class-example\\car class example\\car class example\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CAB657E-86D2-4590-A604-B46F98D672E0}|Car Class Example\\Car Class Example.vbproj|solutionrelative:car class example\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB657E-86D2-4590-A604-B46F98D672E0}|Car Class Example\\Car Class Example.vbproj|c:\\users\\ihsaa\\projects\\car-class-example\\car class example\\car class example\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CAB657E-86D2-4590-A604-B46F98D672E0}|Car Class Example\\Car Class Example.vbproj|solutionrelative:car class example\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\car-class-example\\Car Class Example\\Car Class Example\\Form1.vb",
+              "RelativeDocumentMoniker": "Car Class Example\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\car-class-example\\Car Class Example\\Car Class Example\\Form1.vb",
+              "RelativeToolTip": "Car Class Example\\Form1.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAIAwwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T23:27:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\car-class-example\\Car Class Example\\Car Class Example\\Form1.vb",
+              "RelativeDocumentMoniker": "Car Class Example\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\car-class-example\\Car Class Example\\Car Class Example\\Form1.vb [Design]",
+              "RelativeToolTip": "Car Class Example\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T23:25:33.825Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\bin\Debug\net8.0-windows\Car Class Example.exe
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\bin\Debug\net8.0-windows\Car Class Example.deps.json
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\bin\Debug\net8.0-windows\Car Class Example.runtimeconfig.json
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\bin\Debug\net8.0-windows\Car Class Example.dll
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\bin\Debug\net8.0-windows\Car Class Example.pdb
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car_Class_Example.Form1.resources
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.dll
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\refint\Car Class Example.dll
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.pdb
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\Car Class Example.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\car-class-example\Car Class Example\Car Class Example\obj\Debug\net8.0-windows\ref\Car Class Example.dll
